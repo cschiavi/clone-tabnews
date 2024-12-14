@@ -1,5 +1,5 @@
 function Home(){
-    return <CENTER><h1>TE AMO DE MONTÃO!!!</h1></CENTER>
+    return <p align="center" ><h1>TE AMO DE MONTÃO!!!</h1></p>
 }
 
 export default Home;
